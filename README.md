@@ -10,7 +10,7 @@ For a detailed report, please visit [here](https://harshonyou.github.io/Delta-Du
 
 
 
-### Team
+## Team
 
 -   Viktor Atta-Darkua
 -   Danny Burrows
