@@ -1,16 +1,16 @@
-# Eng 1 - Team 8
+# Delta Ducks Pirate RPG
 
-## Setting Up VS-code and Java
+## Overview
 
--   Install **Visual Studio Code** (Download [here](https://code.visualstudio.com/Download))
--   Install **JavaJDK** (this will run Java program for you) [I would recommend [OpenJDK11 HotSpot](https://adoptopenjdk.net/)]
--   Add `JAVA_HOME` = `YourDrive:\Program Files\AdoptOpenJDK\jdk-xx.x.xx.x-hotspot` (this is relative path and it will depend upon your JavaJDK installation path.
--   Make sure you have got [Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) installed to make your life much easier.
+**Delta Ducks Pirate RPG** is a single-player, pirate-themed role-playing game (RPG) built using Java and the LibGDX framework. Developed by Group 8 (Delta Ducks), this game immerses players in intense naval combat against AI-controlled enemy ships representing different colleges. Players must engage in strategic battles, manage resources, and aim to conquer or ally with other colleges to emerge victorious. The game is designed to be intuitive, accessible, and entertaining for players of all skill levels.
 
-Note: This will change and vary as we add more dependencies or libraries in our project.
+For a detailed report, please visit [here](https://harshonyou.github.io/Delta-Ducks/).
+
+![Snapshot](docs/assets/images/screenshot-2022-02-2.png)
 
 
-### Contributors
+
+### Team
 
 -   Viktor Atta-Darkua
 -   Danny Burrows
